@@ -322,6 +322,8 @@ CopyGPT is a role for ChatGPT that rewrites any headline or combination of words
     - Headline, Subheadline, Opening, Benefits, Social Proof, Call-to-Action, P.S.
 100. **The P.R.O.V.E. Formula**
     - Promise, Reasons, Objections, Value, Evidence
+
+
 101. **The F.U.E.L. Framework**
     - Facts, Understanding, Emotion, Logic
 102. **The 7 Deadly Sins Framework**
@@ -342,102 +344,141 @@ CopyGPT is a role for ChatGPT that rewrites any headline or combination of words
     - Reach, Act, Convert, Engage
 110. **The P.O.W.E.R. Framework**
     - Promise, Objections, Why Now, Evidence, Request
-111. **The A.C.A. Formula (Dean Jackson)**
+111. **The A.C.A. Formula**
     - Attention, Capture, Action
-112. **The S.P.I.N. Framework (Neil Rackham)**
+112. **The S.P.I.N. Framework**
     - Situation, Problem, Implication, Need-Payoff
-113. **The C.U.T. Formula (Frank Kern)**
+113. **The C.U.T. Formula**
     - Curiosity, Urgency, Temptation
-114. **The M.I.C.E. Framework (David Ogilvy)**
+114. **The M.I.C.E. Framework**
     - Message, Image, Content, Execution
-115. **The B.A.N.K. System (Cheri Tree)**
+115. **The B.A.N.K. System**
     - Blueprint, Action, Nurturing, Knowledge
-116. **The S.O.S. Copywriting Formula (Perry Marshall)**
+116. **The S.O.S. Copywriting Formula**
     - Soul, Offer, Speed
-117. **The R.O.A.D. to Success (Brian Tracy)**
+117. **The R.O.A.D. to Success**
     - Results, Obstacles, Actions, Decision
-118. **The T.I.M.E. Framework (Eben Pagan)**
+118. **The T.I.M.E. Framework**
     - Target, Impact, Message, Experience
-119. **The H.O.T.S. Formula (Todd Brown)**
+119. **The H.O.T.S. Formula**
     - Hook, Offer, Tease, Scarcity
-120. **The A.C.T.S. Copywriting Formula (Kevin Rogers)**
+120. **The A.C.T.S. Copywriting Formula**
     - Attention, Connection, Transformation, Solution
-121. **The 3 P's of Selling (Zig Ziglar)**
+121. **The 3 P's of Selling**
     - Problem, Possibilities, Plan
-122. **The A.R.M.S. Framework (Ryan Deiss)**
+122. **The A.R.M.S. Framework**
     - Awareness, Relationship, Monetization, Scaling
-123. **The E.S.P.R.I.T. Formula (Dan Kennedy)**
+123. **The E.S.P.R.I.T. Formula**
     - Emotion, Specificity, Power, Relevance, Impact, Timing
-124. **The P.R.I.M.E. Framework (Gary Bencivenga)**
+124. **The P.R.I.M.E. Framework**
     - Promise, Reasons, Imagination, Motivation, Evidence
-125. **The S.C.O.R.E. Formula (Jay Abraham)**
+125. **The S.C.O.R.E. Formula**
     - Strategy, Context, Optimization, Results, Execution
-126. **The 6 M's of Marketing (Philip Kotler)**
+126. **The 6 M's of Marketing**
     - Mission, Market, Message, Media, Money, Measurement
-127. **The P.R.I.C.E. Framework (Robert Cialdini)**
+127. **The P.R.I.C.E. Framework**
     - Preset, Reciprocation, Identity, Consistency, Expectations
-128. **The S.W.A.P. Framework (Gary Halbert)**
+128. **The S.W.A.P. Framework**
     - Situation, Wants, Achievements, Problem
-129. **The 4 R's of Marketing (Al Ries)**
+129. **The 4 R's of Marketing**
     - Research, Rationale, Resources, Results
-130. **The T.R.U.S.T. Formula (Dan Lok)**
+130. **The T.R.U.S.T. Formula**
     - Target, Relatability, Uniqueness, Simplicity, Testimonials
-131. **The 4 C's of Branding (Marty Neumeier)**
+131. **The 4 C's of Branding**
     - Clarity, Credibility, Consistency, Constancy
-132. **The 7 P's of Marketing (Edmund Jerome McCarthy)**
+132. **The 7 P's of Marketing**
     - Product, Price, Promotion, Place, People, Process, Physical Evidence
-133. **The P.R.I.S.M. Framework (Jon Morrow)**
+133. **The P.R.I.S.M. Framework**
     - Pain, Results, Information, Solution, Motivation
-134. **The P.O.P.S. Formula (Ben Settle)**
+134. **The P.O.P.S. Formula**
     - Problem, Opportunity, Promise, Solution
-135. **The R.A.I.S.E. Framework (Joanna Wiebe)**
+135. **The R.A.I.S.E. Framework**
     - Reveal, Amplify, Illuminate, Solve, Energize
-136. **The C.A.R.P. Framework (Michael Masterson)**
+136. **The C.A.R.P. Framework**
     - Copy, Appearance, Response, Product
-137. **The P.O.E.T. Formula (Ray Edwards)**
+137. **The P.O.E.T. Formula**
     - Premise, Offer, Emotion, Transformation
-138. **The C.R.A.F.T. Framework (Jeff Walker)**
+138. **The C.R.A.F.T. Framework**
     - Connection, Results, Authenticity, Focus, Transformation
-139. **The S.T.O.R.Y. Selling System (Nick Usborne)**
+139. **The S.T.O.R.Y. Selling System**
     - Situation, Transformation, Obstacles, Results, You
-141. **The S.I.M.P.L.E. Formula (Terry Dean)**
+141. **The S.I.M.P.L.E. Formula**
     - Straightforward, Informational, Memorable, Personal, Lively, Engaging
-142. **The T.R.I.B.E. Framework (Stu McLaren)**
+142. **The T.R.I.B.E. Framework**
     - Trust, Results, Identity, Belonging, Engagement
-143. **The H.E.A.R.T. Formula (John Carlton)**
+143. **The H.E.A.R.T. Formula**
     - Hook, Empathy, Authority, Results, Testimonials
-144. **The P.R.E.A.C.H. Framework (Brian Clark)**
+144. **The P.R.E.A.C.H. Framework**
     - Problem, Reveal, Empower, Action, Connection, Hope
-145. **The L.A.W.S. of Persuasion (Dave Dee)**
+145. **The L.A.W.S. of Persuasion**
     - Likeability, Authority, Witness, Scarcity
-146. **The S.P.A.R.K. Formula (Russell Brunson)**
+146. **The S.P.A.R.K. Formula**
     - Story, Problem, Answer, Results, Knowledge
-147. **The P.R.O.M.O. Framework (Chet Holmes)**
+147. **The P.R.O.M.O. Framework**
     - Promise, Reasons, Offer, Motivation, Objections
-148. **The C.A.L.L. Formula (Jay White)**
+148. **The C.A.L.L. Formula**
     - Captivate, Activate, Liberate, Leverage
-149. **The B.U.I.L.D. Framework (Seth Godin)**
+149. **The B.U.I.L.D. Framework**
     - Belief, Uniqueness, Interaction, Longevity, Demand
-150. **The L.E.G.O. Formula (Marie Forleo)**
+150. **The L.E.G.O. Formula**
     - Leverage, Empathy, Goal, Outcome
-151. **The M.A.P.S. Framework (David Garfinkel)**
+151. **The M.A.P.S. Framework**
     - Mindset, Audience, Promise, Solution
-152. **The F.R.E.S.H. Formula (Alex Cattoni)**
+152. **The F.R.E.S.H. Formula**
     - Facts, Relatability, Emotion, Story, Hope
-153. **The S.A.F.E. System (Laura Belgray)**
+153. **The S.A.F.E. System**
     - Simple, Actionable, Fun, Effective
-154. **The D.R.I.V.E. Framework (Ryan Levesque)**
+154. **The D.R.I.V.E. Framework**
     - Desire, Roadblocks, Investment, Vision, Execution
-155. **The P.E.A.C.E. Formula (Matt Furey)**
+155. **The P.E.A.C.E. Formula**
     - Problem, Emotion, Action, Consequences, Empower
-156. **The 5 A's of Conversion (Peep Laja)**
+156. **The 5 A's of Conversion**
     - Attention, Attraction, Affinity, Authority, Action
-157. **The L.O.V.E. Framework (Todd Herman)**
+157. **The L.O.V.E. Framework**
     - Listen, Observe, Validate, Empathize
-158. **The P.I.E.S. Formula (Mike Dillard)**
+158. **The P.I.E.S. Formula**
     - Problem, Idea, Evidence, Solution
-159. **The B.R.A.N.D. Framework (Melinda Emerson)**
+159. **The B.R.A.N.D. Framework**
     - Build, Relate, Assess, Nurture, Deliver
-160. **The G.R.O.W. Formula (Brian Moran)**
+160. **The G.R.O.W. Formula**
     - Goals, Reality, Obstacles, Way Forward
-
+161. **The M.A.G.I.C. Formula**
+    - Market, Audience, Goals, Insights, Creative Strategy
+162. **The A.R.T.I.S.T. Framework**
+    - Attention, Relevance, Trust, Interest, Satisfaction, Transformation
+163. **The S.P.E.C.T.R.U.M. Formula**
+    - Specificity, Promise, Empathy, Clarity, Testimonials, Risk Reversal, Urgency, Motivation
+164. **The C.O.M.P.L.E.X. Framework**
+    - Context, Objections, Motivation, Proof, Leverage, Execution, eXperience
+165. **The I.M.P.A.C.T. Formula**
+    - Identify, Message, Proof, Action, Commitment, Testimonials
+166. **The S.Y.N.E.R.G.Y. Framework**
+    - Situation, Your Solution, Needs, Evidence, Results, Guarantee, Yes Factor
+167. **The P.E.R.F.E.C.T. Formula**
+    - Problem, Empathy, Results, Features, Examples, Commitment, Testimonials
+168. **The I.N.F.L.U.E.N.C.E. Framework**
+    - Intent, Needs, Feelings, Language, Understanding, Experiences, Negotiation, Commitment
+169. **The A.S.P.I.R.E. Formula**
+    - Attention, Story, Problem, Imagination, Resolution, Engagement
+170. **The M.A.S.T.E.R.Y. Framework**
+    - Mindset, Audience, Strategy, Tactics, Execution, Results, Your Signature
+171. **The E.X.T.R.A.O.R.D.I.N.A.R.Y. Formula**
+    - Engage, eXplore, Transform, Relevance, Amplify, Observe, Results, Details, Inspire, Nurture, Action, Reinforce, Your Voice
+172. **The L.E.A.D.E.R.S.H.I.P. Framework**
+    - Lead, Empathize, Analyze, Define, Execute, Review, Sustain, Highlight, Iterate, Pivot
+173. **The C.R.E.A.T.I.V.I.T.Y. Formula**
+    - Curiosity, Research, Empathy, Action, Testing, Imagination, Validation, Iteration, Tenacity, Your Signature
+174. **The S.T.R.A.T.E.G.I.Z.E. Framework**
+    - Situation, Target, Resources, Action, Timeframe, Evaluation, Goals, Implementation, Zeal, Execution
+175. **The C.O.N.V.E.R.S.A.T.I.O.N. Formula**
+    - Connection, Objective, Needs, Values, Emotions, Results, Solutions, Actions, Trust, Inspiration, Objections, Next Steps
+176. **The D.E.T.A.I.L.S. Framework**
+    - Define, Empathize, Transform, Action, Illustrate, Learn, Sustain
+177. **The A.D.V.A.N.C.E. Formula**
+    - Attention, Desire, Validation, Action, Nurturing, Commitment, Engagement
+178. **The I.N.T.E.G.R.A.T.E. Framework**
+    - Identify, Nurture, Transform, Engage, Goals, Results, Action, Test, Evaluate
+179. **The P.R.O.G.R.E.S.S. Formula**
+    - Promise, Reasons, Obstacles, Goals, Results, Engagement, Sustain, Share
+180. **The S.U.C.C.E.S.S.F.U.L. Framework**
+    - Situation, Understanding, Challenges, Commitment, Empathy, Strategy, Solutions, Features, Urgency, Leverage, Longevity

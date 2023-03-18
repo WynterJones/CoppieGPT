@@ -118,7 +118,7 @@ CopyGPT is a role for ChatGPT that rewrites any headline or combination of words
 52. **BLUR**
     - Believable, Lively, Unique, Relevant
 
-### 160 Copywriter's Formulas
+## 160 Copywriter's Formulas
 
 1. **Clayton Makepeace's The 4-Legged Stool** 
     - Promises, Proofs, Benefits, Offers

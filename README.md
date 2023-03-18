@@ -19,11 +19,11 @@ Start a new chat with ChatGPT using the latest model (v4). Copy and paste the fo
 
 ## Example Questions to Ask:
 
-1. Can you re-write this headline, "headline here"
-  - Response: ![image](https://user-images.githubusercontent.com/34955844/226084878-4707832a-4ef5-4f0d-a54a-0955810b791a.png)
+1. **Can you re-write this headline, "headline here"**
+  - ![image](https://user-images.githubusercontent.com/34955844/226084878-4707832a-4ef5-4f0d-a54a-0955810b791a.png)
 
-2. Can you tell me best formula for this text, "text here"
-  - Response: ![image](https://user-images.githubusercontent.com/34955844/226084783-0a6ea010-634d-4114-8928-53c1148768e3.png)
+2. **Can you tell me best formula for this text, "text here"**
+  - ![image](https://user-images.githubusercontent.com/34955844/226084783-0a6ea010-634d-4114-8928-53c1148768e3.png)
 
 
 ## 52 Frameworks

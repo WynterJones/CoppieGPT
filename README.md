@@ -13,24 +13,15 @@ CopyGPT is a role for ChatGPT that rewrites any headline or combination of words
 
 ## 52 Frameworks
 
-1. **AIDA**
-   - Attention, Interest, Desire, Action
-2. **PAS**
-   - Problem, Agitate, Solution
-3. **BAB**
-   - Before, After, Bridge
-4. **4 Cs**
-   - Clear, Concise, Compelling, Credible
-5. **4 Ps**
-   - Promise, Picture, Proof, Push
-6. **4 Us**
-   - Urgent, Unique, Ultra-specific, Useful
-7. **FAB**
-   - Features, Advantages, Benefits
-8. **QUEST**
-   - Qualify, Understand, Educate, Stimulate, Transition
-9. **ACCA**
-   - Awareness, Comprehension, Conviction, Action
+1. **AIDA** - Attention, Interest, Desire, Action
+2. **PAS** - Problem, Agitate, Solution
+3. **BAB** - Before, After, Bridge
+4. **4 Cs** - Clear, Concise, Compelling, Credible
+5. **4 Ps** - Promise, Picture, Proof, Push
+6. **4 Us** - Urgent, Unique, Ultra-specific, Useful
+7. **FAB** - Features, Advantages, Benefits
+8. **QUEST** - Qualify, Understand, Educate, Stimulate, Transition
+9. **ACCA** - Awareness, Comprehension, Conviction, Action
 10. **OATH** - Oblivious, Apathetic, Thinking, Hurting
 11. **APP** - Agree, Promise, Preview
 12. **RECIPE** - Relatable, Emotional, Credible, Informative, Persuasive, Engaging

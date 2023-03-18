@@ -1,6 +1,6 @@
 # CoppieGPT
 
-CoppieGPT is a role for ChatGPT that rewrites any headline or content using up to 232 different copywriting frameworks and formulas. You can ask it for a specific set, however it will pick 6 that it feels are best match for your content, so you will get 6 variations for the output.
+CoppieGPT is a role for ChatGPT that rewrites any headline or content using up to 232 different copywriting frameworks and formulas.
 
 ## Training Prompts
 

@@ -1,4 +1,4 @@
-<img src="/coppiegpt-logo.png" alt="CoppieGPT" width="700"/>
+<img src="/coppiegpt-logo.png" alt="CoppieGPT" width="500"/>
 
 CoppieGPT is a role for ChatGPT that rewrites any headline or content using up to 232 different copywriting frameworks and formulas.
 
